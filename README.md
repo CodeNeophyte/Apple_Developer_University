@@ -10,12 +10,17 @@ CS50
 Ray Wenderlich iOS apprentice
 Hacking with Swift
 Big Nerd Ranch Swift, iOS Development
+
 ## Intermediate
 ## Advanced
-Other languages: 
+###Other languages: 
 C: The C Programming Language
+
 C++
+http://www.learncpp.com
+
 Objective-C: BNR Objective-C
+
 ## Design
 ## Marketing
 ## Business
