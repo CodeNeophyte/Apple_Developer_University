@@ -22,11 +22,26 @@ http://www.learncpp.com
 Objective-C: BNR Objective-C
 
 ## Design
+https://www.sketchapp.com
+
+Great Book about design for iOS
+https://designcode.io
 ## Marketing
 ## Business
 
 ## Open Source iOS projects to work on
 https://github.com/dkhamsing/open-source-ios-apps
+###### Interesting projects
+https://github.com/sprang/Inkpad
+https://github.com/peterrudenko/helio-workstation
+https://github.com/swiftcodex/Swift-Radio-Pro
+https://github.com/artsy/eigen
+https://github.com/MengTo/DesignerNewsApp
+https://github.com/bonzoq/hniosreader
+https://github.com/Dimillian/SwiftHN
+https://github.com/mozilla-mobile/firefox-ios
+https://github.com/automattic/simplenote-ios
+https://github.com/wordpress-mobile/WordPress-iOS
 
 ## Resources for Indie Developers
 https://github.com/mezod/awesome-indie
