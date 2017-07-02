@@ -13,7 +13,7 @@ Big Nerd Ranch Swift, iOS Development
 
 ## Intermediate
 ## Advanced
-###Other languages: 
+### Other languages: 
 C: The C Programming Language
 
 C++
@@ -24,3 +24,12 @@ Objective-C: BNR Objective-C
 ## Design
 ## Marketing
 ## Business
+
+## Open Source iOS projects to work on
+https://github.com/dkhamsing/open-source-ios-apps
+
+## Resources for Indie Developers
+https://github.com/mezod/awesome-indie
+
+## Forums, Slack Channels, and IRC channels
+
