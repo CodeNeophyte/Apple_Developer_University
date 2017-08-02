@@ -4,7 +4,7 @@ The purpose of this repo is to provide a learning path for those interested in m
 ## Overview
 Learning to develop apps for the Apple ecosystem is a journey unto itself. It seems that a common starting point is to learn to develop iOS apps. Taking this into consideration, the foundations portion will be geared towards iOS development.
 
-So why is learning iOS development and making your own apps or develop for someone else is so hard. Because you must learn five different topics to get an app into the store: 1) A programming Language; 2) iOS SDK; 3)iTunes Connect; 4) App design; 5) App store marketing
+So why is learning iOS development and making your own apps or develop for someone else is so hard. Because you must learn five different topics to get an app into the store: 1) A programming Language; 2) iOS SDK; 3) iTunes Connect; 4) App design; 5) App store marketing
 ## Foundations
 If you are completely new to Computer Science and Coding, and are interested in both, start here:
 CS50: https://cs50.harvard.edu
