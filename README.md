@@ -20,10 +20,13 @@ Hacking with Swift: https://www.hackingwithswift.com/read
 Apple's own Book, Free on iBooks: App Development with Swift. 
 
 After you've gone through one of those courses, you are ready to understand the why. These two books are the best at it and will serve you as reference from now on:
+
 Big Nerd Ranch Swift: https://www.amazon.com/Swift-Programming-Ranch-Guide-Guides/dp/013461061X/ref=sr_1_1?ie=UTF8&qid=1499888896&sr=8-1&keywords=big+nerd+ranch+swift
+
 Big Nerd Ranch iOS Development: https://www.amazon.com/iOS-Programming-Ranch-Guide-Guides/dp/0134682335/ref=sr_1_2?ie=UTF8&qid=1499888896&sr=8-2&keywords=big+nerd+ranch+swift
 
 BNR books are top notch and so is their blog, so it is worth checking it out for time to time. https://www.bignerdranch.com
+
 It might be a worthwhile investment to look into Safari Books Online. They provide unlimited access to the majority of Technology books publishers like BNR, O'Reilly, No Starch Press, and Packet Pub. Check them out at https://www.safaribooksonline.com
 
 ### Foundation Topics
@@ -40,7 +43,7 @@ General Computer Science Topics - Procedural Programming (Step by Step, line by 
 TODO: - Add intermediate resource and topics. (i.e. Individual Frameworks inside iOS, external frameworks, Cocopods, Cartage, Git, Databases)
 
 ## Advanced
-TODOL - Add advanced resources and topics.
+TODO: - Add advanced resources and topics.
 
 ### Other languages with direct relationship to iOS: 
 C: 
