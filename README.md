@@ -3,7 +3,7 @@ The purpose of this repo is to provide a learning path for those interested in m
 
 NOTE: I'm not an affiliate of any of the link mentioned below. However I do ask that if you like a lot any of the free resources and the creator has a paid version, to consider buying to support their work!
 
-## Overview
+### Overview
 Learning to develop apps for the Apple ecosystem is a journey unto itself. It seems that a common starting point is to learn to develop iOS apps. Taking this into consideration, the foundations portion will be geared towards iOS development.
 
 So why is learning iOS development and making your own apps or develop for someone else is so hard. Because you must learn five different topics to get an app into the store: 1) A programming Language; 2) iOS SDK; 3) iTunes Connect; 4) App design; 5) App store marketing; 6) Xcode (The Integrated Development Environment (IDE))
@@ -33,37 +33,39 @@ Throughout these books and resources you whould learn the following things:
 * Xcode - 
 * General Computer Science Topics - Procedural Programming (Step by Step, line by line programming); Basics of Object Oriented Programming (Encapsulation, Composition, Inheritance, Polymorhphism), Delegation, Abstraction; Algorhythm, Data Types
 
-## Intermediate
+### Intermediate
 TODO: - Add intermediate resource and topics. (i.e. Individual Frameworks inside iOS, external frameworks, Cocopods, Cartage, Git, Databases)
 
-## Advanced
+### Advanced
 TODO: - Add advanced resources and topics.
 
 ### Other languages with direct relationship to iOS: 
 C: 
 * The C Programming Language
+
 C++:
 * http://www.learncpp.com
+
 Objective-C: 
 * BNR Objective-C
 * Objective-C for Swift Developers
 
-## Design
+### Design
 * Sketch APP: https://www.sketchapp.com
 * Great Book about design for iOS: https://designcode.io
 
-## Marketing
+### Marketing
 * Marketing for Developers: https://devmarketing.xyz
 * Marketing for Engineers: https://github.com/LisaDziuba/Marketing-for-Engineers
 
-## Business
+### Business
 #### Bootstrapping
 * The Stairstep Approach to Bootstrapping: https://www.softwarebyrob.com/2015/03/26/the-stairstep-approach-to-bootstrapping/
 
-## Open Source iOS projects to work on
+### Open Source iOS projects to work on
 * https://github.com/dkhamsing/open-source-ios-apps
 
-###### Interesting projects
+#### Interesting Open Source projects
 * https://github.com/sprang/Inkpad
 * https://github.com/peterrudenko/helio-workstation
 * https://github.com/swiftcodex/Swift-Radio-Pro
@@ -75,17 +77,17 @@ Objective-C:
 * https://github.com/automattic/simplenote-ios
 * https://github.com/wordpress-mobile/WordPress-iOS
 
-## Resources for Indie Developers
+### Resources for Indie Developers
 * https://github.com/mezod/awesome-indie
 
-## Forums, Slack Channels, and IRC channels
+### Forums, Slack Channels, and IRC channels
 TODO: - Add good channels for getting help and contributing to the community
 
-# Beyond iOS
+## Beyond iOS
 MacOS, WatchOS, TvOS, Backend/Server Swift
 
-# Computer Science
-## Associations
+## Computer Science
+### Associations
 * Association for Computing Machinery (ACM): http://www.acm.org
 * IEEE: https://www.ieee.org/about/index.html
 * IEEE computing society: https://www.computer.org
