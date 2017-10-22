@@ -10,13 +10,13 @@ So why is learning iOS development and making your own apps or develop for someo
 ## Foundations
 If you are completely new to Computer Science and Coding, and are interested in both, start here:
 
-+CS50: https://cs50.harvard.edu
+* CS50: https://cs50.harvard.edu
 
 If you are just interested in starting to code and develop applications for iOS without getting into the Computer Science realm, start here:
 
--Ray Wenderlich iOS apprentice: https://store.raywenderlich.com/products/ios-apprentice
--Hacking with Swift: https://www.hackingwithswift.com/read
--Apple's own Book, Free on iBooks: App Development with Swift. 
+- Ray Wenderlich iOS apprentice: https://store.raywenderlich.com/products/ios-apprentice
+- Hacking with Swift: https://www.hackingwithswift.com/read
+- Apple's own Book, Free on iBooks: App Development with Swift. 
 
 After you've gone through one of those courses, you are ready to understand the why. These two books are the best at it and will serve you as reference from now on:
 *Big Nerd Ranch Swift: https://www.amazon.com/Swift-Programming-Ranch-Guide-Guides/dp/013461061X/ref=sr_1_1?ie=UTF8&qid=1499888896&sr=8-1&keywords=big+nerd+ranch+swift
