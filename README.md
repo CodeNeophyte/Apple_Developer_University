@@ -31,7 +31,7 @@ It might be a worthwhile investment to look into Safari Books Online. They provi
 
 ### Foundation Topics
 Throughout these books and resources you whould learn the following things:
-Swift - Variables and Constants, Loops (For-in, While, Repeat-While), Types, Conditionals(If statements, Switches), Numbers(Integers and Floating Points), Strings, Optionals, Collections (Array, Dictionary, Sets), Closures & Functions, Enumerations, Structures, Class, 
+Swift - Variables and Constants, Loops (For-in, While, Repeat-While), Types, Conditionals(If statements, Switches), Numbers(Integers and Floating Points), Strings, Optionals, Collections (Array, Dictionary, Sets), Closures & Functions, Enumerations, Structures, Class, Initialization, Properties and Methods, and Value vs Reference types. 
 
 iOS SDK - Saving information()
 
