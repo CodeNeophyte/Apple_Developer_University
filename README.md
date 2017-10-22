@@ -36,6 +36,22 @@ Throughout these books and resources you whould learn the following things:
 
 ### Intermediate
 TODO: - Add intermediate resource and topics. (i.e. Individual Frameworks inside iOS, external frameworks, Cocopods, Cartage, Git, Databases)
+#### Core ML
+* Machine Learning for Everyone: http://machinethink.net/blog/ios-11-machine-learning-for-everyone/
+* Ray Wenderlich Machine Learning: https://www.raywenderlich.com/164213/coreml-and-vision-machine-learning-in-ios-11-tutorial
+* BNR Machine Learning: https://www.bignerdranch.com/blog/machine-learning-in-ios-using-core-ml/
+
+#### Neural Networks
+* Neural Network Playground: https://github.com/hetelek/Neural-Network-Playground
+
+#### Xcode extensions
+* Linex: https://github.com/kaunteya/Linex
+
+#### Charts
+* Daniel Gindi: https://github.com/danielgindi/Charts
+* Awesome iOS Charts (Curated list): https://github.com/ameizi/awesome-ios-chart
+* SwiftCharts: https://github.com/i-schuetz/SwiftCharts
+
 
 ### Advanced
 TODO: - Add advanced resources and topics.
@@ -58,10 +74,15 @@ Objective-C:
 ### Marketing
 * Marketing for Developers: https://devmarketing.xyz
 * Marketing for Engineers: https://github.com/LisaDziuba/Marketing-for-Engineers
+* App Launch Map: https://applaunchmap.com/2017/06/23/why-app-preview-videos-are-vital-in-ios-11/
 
 ### Business
 ##### Bootstrapping
 * The Stairstep Approach to Bootstrapping: https://www.softwarebyrob.com/2015/03/26/the-stairstep-approach-to-bootstrapping/
+
+##### Gamification
+* Yu-kai Chou: http://yukaichou.com
+* Gamification Research on Diablo III: http://yukaichou.com/gamification-examples/diablo-iii-gamification-winning-addicting/
 
 ### Open Source iOS projects to work on
 * https://github.com/dkhamsing/open-source-ios-apps
@@ -85,7 +106,18 @@ Objective-C:
 TODO: - Add good channels for getting help and contributing to the community
 
 ## Beyond iOS
-MacOS, WatchOS, TvOS, Backend/Server Swift
+TODO: - Add resources for MacOS, WatchOS, TvOS, Backend/Server Swift
+
+#### Server Side Swift
+* Stencil (templating language for Swift): https://github.com/kylef/Stencil
+
+
+## Swift Language
+#### Chatbots
+* https://academy.realm.io/posts/ray-tsaihong-swift-chatbots-for-fun-and-profit/
+
+#### Good Blogs to read and follow
+* Realm Academy: https://academy.realm.io
 
 ## Computer Science
 ### Associations
