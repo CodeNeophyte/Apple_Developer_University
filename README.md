@@ -61,7 +61,12 @@ Great Book about design for iOS
 https://designcode.io
 
 ## Marketing
+Marketing for Developers: https://devmarketing.xyz
+
 ## Business
+#### Bootstrapping
+The Stairstep Approach to Bootstrapping: https://www.softwarebyrob.com/2015/03/26/the-stairstep-approach-to-bootstrapping/
+
 
 ## Open Source iOS projects to work on
 https://github.com/dkhamsing/open-source-ios-apps
