@@ -63,6 +63,8 @@ https://designcode.io
 ## Marketing
 Marketing for Developers: https://devmarketing.xyz
 
+Marketing for Engineers: https://github.com/LisaDziuba/Marketing-for-Engineers
+
 ## Business
 #### Bootstrapping
 The Stairstep Approach to Bootstrapping: https://www.softwarebyrob.com/2015/03/26/the-stairstep-approach-to-bootstrapping/
