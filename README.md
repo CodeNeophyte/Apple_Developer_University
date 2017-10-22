@@ -52,7 +52,6 @@ TODO: - Add intermediate resource and topics. (i.e. Individual Frameworks inside
 * Awesome iOS Charts (Curated list): https://github.com/ameizi/awesome-ios-chart
 * SwiftCharts: https://github.com/i-schuetz/SwiftCharts
 
-
 ### Advanced
 TODO: - Add advanced resources and topics.
 
@@ -104,23 +103,36 @@ Objective-C:
 
 ### Forums, Slack Channels, and IRC channels
 TODO: - Add good channels for getting help and contributing to the community
+* iOS Developers HQ: https://ios-developers.io
+
+### Newsletters
+
 
 ## Beyond iOS
 TODO: - Add resources for MacOS, WatchOS, TvOS, Backend/Server Swift
 
 #### Server Side Swift
 * Stencil (templating language for Swift): https://github.com/kylef/Stencil
-
+* Vapor (Server Side Framework): https://github.com/vapor/vapor
 
 ## Swift Language
 #### Chatbots
 * https://academy.realm.io/posts/ray-tsaihong-swift-chatbots-for-fun-and-profit/
 
+#### Open Source
+* Open Sourcing your project: https://www.swiftbysundell.com/posts/open-sourcing-swift-code
+
 #### Good Blogs to read and follow
 * Realm Academy: https://academy.realm.io
+* Swift by Sundell: https://www.swiftbysundell.com
 
 ## Computer Science
 ### Associations
 * Association for Computing Machinery (ACM): http://www.acm.org
 * IEEE: https://www.ieee.org/about/index.html
 * IEEE computing society: https://www.computer.org
+
+## Jobs and Apprenticeships
+### Apprenticeships
+* Interpid Pursuits (Agency): https://jobs.lever.co/intrepid/7ab52936-a915-4554-9ee6-8e4ab9b8eac8
+
