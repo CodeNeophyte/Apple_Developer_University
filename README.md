@@ -22,6 +22,7 @@ After you've gone through one of those courses, you are ready to understand the 
 
 * Big Nerd Ranch Swift: https://www.amazon.com/Swift-Programming-Ranch-Guide-Guides/dp/013461061X/ref=sr_1_1?ie=UTF8&qid=1499888896&sr=8-1&keywords=big+nerd+ranch+swift
 - Big Nerd Ranch iOS Development: https://www.amazon.com/iOS-Programming-Ranch-Guide-Guides/dp/0134682335/ref=sr_1_2?ie=UTF8&qid=1499888896&sr=8-2&keywords=big+nerd+ranch+swift
+
 BNR books are top notch and so is their blog, so it is worth checking it out for time to time. https://www.bignerdranch.com
 
 It might be a worthwhile investment to look into Safari Books Online. They provide unlimited access to the majority of Technology books publishers like BNR, O'Reilly, No Starch Press, and Packet Pub. Check them out at https://www.safaribooksonline.com
@@ -59,13 +60,13 @@ Objective-C:
 * Marketing for Engineers: https://github.com/LisaDziuba/Marketing-for-Engineers
 
 ### Business
-#### Bootstrapping
+##### Bootstrapping
 * The Stairstep Approach to Bootstrapping: https://www.softwarebyrob.com/2015/03/26/the-stairstep-approach-to-bootstrapping/
 
 ### Open Source iOS projects to work on
 * https://github.com/dkhamsing/open-source-ios-apps
 
-#### Interesting Open Source projects
+##### Interesting Open Source projects
 * https://github.com/sprang/Inkpad
 * https://github.com/peterrudenko/helio-workstation
 * https://github.com/swiftcodex/Swift-Radio-Pro
