@@ -40,6 +40,7 @@ TODO: - Add intermediate resource and topics. (i.e. Individual Frameworks inside
 * Machine Learning for Everyone: http://machinethink.net/blog/ios-11-machine-learning-for-everyone/
 * Ray Wenderlich Machine Learning: https://www.raywenderlich.com/164213/coreml-and-vision-machine-learning-in-ios-11-tutorial
 * BNR Machine Learning: https://www.bignerdranch.com/blog/machine-learning-in-ios-using-core-ml/
+* Models list: https://github.com/likedan/Awesome-CoreML-Models
 
 #### Neural Networks
 * Neural Network Playground: https://github.com/hetelek/Neural-Network-Playground
