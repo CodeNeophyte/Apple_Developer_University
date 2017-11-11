@@ -56,6 +56,9 @@ TODO: - Add intermediate resource and topics. (i.e. Individual Frameworks inside
 ### Advanced
 TODO: - Add advanced resources and topics.
 
+### Tools for Developers
+* Spectacle app (Window management for OSX): https://www.spectacleapp.com
+
 ### Other languages with direct relationship to iOS: 
 C: 
 * The C Programming Language
