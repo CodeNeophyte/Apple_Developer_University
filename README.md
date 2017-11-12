@@ -129,6 +129,8 @@ TODO: - Add resources for MacOS, WatchOS, TvOS, Backend/Server Swift
 #### Good Blogs to read and follow
 * Realm Academy: https://academy.realm.io
 * Swift by Sundell: https://www.swiftbysundell.com
+* Krzysztof Zablocki: http://merowing.info
+* Aleksandar Vacic: http://aplus.rs
 
 ## Computer Science
 ### Associations
