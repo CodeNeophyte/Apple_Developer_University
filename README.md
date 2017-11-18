@@ -58,6 +58,8 @@ TODO: - Add advanced resources and topics.
 
 ### Tools for Developers
 * Spectacle app (Window management for OSX): https://www.spectacleapp.com
+* Quick Look JS (JSON for Humans): http://www.sagtau.com/quicklookjson.html
+* SourceTree (Visual Git): https://www.sourcetreeapp.com
 
 ### Other languages with direct relationship to iOS: 
 C: 
