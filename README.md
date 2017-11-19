@@ -135,6 +135,7 @@ TODO: - Add resources for MacOS, WatchOS, TvOS, Backend/Server Swift
 * Krzysztof Zablocki: http://merowing.info
 * Aleksandar Vacic: http://aplus.rs
 * Martiancraft: http://martiancraft.com/blog.html
+* Mike Ash (advanced topics): https://www.mikeash.com
 
 ## Computer Science
 ### Associations
