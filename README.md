@@ -138,6 +138,8 @@ TODO: - Add resources for MacOS, WatchOS, TvOS, Backend/Server Swift
 * Mike Ash (advanced topics): https://www.mikeash.com
 * NSHipster: http://nshipster.com
 * Russ Bishop: http://www.russbishop.net
+* Cocoa with Love: https://www.cocoawithlove.com
+* ObjC.io (Weely Swift Talks): https://www.objc.io 
 
 ## Computer Science
 ### Associations
