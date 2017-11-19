@@ -55,6 +55,7 @@ TODO: - Add intermediate resource and topics. (i.e. Individual Frameworks inside
 
 ### Advanced
 TODO: - Add advanced resources and topics.
+* Interacting with C APIs: https://developer.apple.com/library/content/documentation/Swift/Conceptual/BuildingCocoaApps/InteractingWithCAPIs.html
 
 ### Tools for Developers
 * Spectacle app (Window management for OSX): https://www.spectacleapp.com
