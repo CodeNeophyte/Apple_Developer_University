@@ -121,6 +121,7 @@ TODO: - Add resources for MacOS, WatchOS, TvOS, Backend/Server Swift
 #### Server Side Swift
 * Stencil (templating language for Swift): https://github.com/kylef/Stencil
 * Vapor (Server Side Framework): https://github.com/vapor/vapor
+* Build a blog with Kitura: https://developer.ibm.com/swift/2017/11/07/build-a-blog/
 
 ## Swift Language
 #### Chatbots
