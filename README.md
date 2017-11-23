@@ -141,6 +141,7 @@ TODO: - Add resources for MacOS, WatchOS, TvOS, Backend/Server Swift
 * Russ Bishop: http://www.russbishop.net
 * Cocoa with Love: https://www.cocoawithlove.com
 * ObjC.io (Weely Swift Talks): https://www.objc.io 
+* JP Simmard: http://www.jpsim.com
 
 ## Computer Science
 ### Associations
@@ -151,4 +152,7 @@ TODO: - Add resources for MacOS, WatchOS, TvOS, Backend/Server Swift
 ## Jobs and Apprenticeships
 ### Apprenticeships
 * Interpid Pursuits (Agency): https://jobs.lever.co/intrepid/7ab52936-a915-4554-9ee6-8e4ab9b8eac8
+
+### Work
+* Crew: https://crew.co
 
