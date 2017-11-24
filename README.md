@@ -142,6 +142,7 @@ TODO: - Add resources for MacOS, WatchOS, TvOS, Backend/Server Swift
 * Cocoa with Love: https://www.cocoawithlove.com
 * ObjC.io (Weely Swift Talks): https://www.objc.io 
 * JP Simmard: http://www.jpsim.com
+* ++Blog: https://orionedwards.blogspot.co.nz
 
 ## Computer Science
 ### Associations
