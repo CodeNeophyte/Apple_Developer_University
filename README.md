@@ -130,7 +130,7 @@ TODO: - Add resources for MacOS, WatchOS, TvOS, Backend/Server Swift
 #### Open Source
 * Open Sourcing your project: https://www.swiftbysundell.com/posts/open-sourcing-swift-code
 
-#### Good Blogs to read and follow
+#### Good Blogs and websites to read and follow
 * Realm Academy: https://academy.realm.io
 * Swift by Sundell: https://www.swiftbysundell.com
 * Krzysztof Zablocki: http://merowing.info
@@ -143,6 +143,7 @@ TODO: - Add resources for MacOS, WatchOS, TvOS, Backend/Server Swift
 * ObjC.io (Weely Swift Talks): https://www.objc.io 
 * JP Simmard: http://www.jpsim.com
 * ++Blog: https://orionedwards.blogspot.co.nz
+* Skilled.io: https://www.skilled.io
 
 ## Computer Science
 ### Associations
