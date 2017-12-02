@@ -34,6 +34,10 @@ Throughout these books and resources you whould learn the following things:
 * Xcode - 
 * General Computer Science Topics - Procedural Programming (Step by Step, line by line programming); Basics of Object Oriented Programming (Encapsulation, Composition, Inheritance, Polymorhphism), Delegation, Abstraction; Algorhythm, Data Types
 
+#### Networking and JSON
+* Network requests: http://matteomanferdini.com/network-requests-rest-apis-ios-swift/
+* Ultimate guide to JSON: http://benscheirman.com/2017/06/ultimate-guide-to-json-parsing-with-swift-4/
+
 ### Intermediate
 TODO: - Add intermediate resource and topics. (i.e. Individual Frameworks inside iOS, external frameworks, Cocopods, Cartage, Git, Databases)
 #### Core ML
@@ -123,6 +127,9 @@ TODO: - Add resources for MacOS, WatchOS, TvOS, Backend/Server Swift
 * Vapor (Server Side Framework): https://github.com/vapor/vapor
 * Build a blog with Kitura: https://developer.ibm.com/swift/2017/11/07/build-a-blog/
 
+#### APIs
+* Public APIs: https://github.com/toddmotto/public-apis
+
 ## Swift Language
 #### Chatbots
 * https://academy.realm.io/posts/ray-tsaihong-swift-chatbots-for-fun-and-profit/
@@ -144,6 +151,7 @@ TODO: - Add resources for MacOS, WatchOS, TvOS, Backend/Server Swift
 * JP Simmard: http://www.jpsim.com
 * ++Blog: https://orionedwards.blogspot.co.nz
 * Skilled.io: https://www.skilled.io
+* NSScreencast: http://nsscreencast.com/episodes
 
 ## Computer Science
 ### Associations
