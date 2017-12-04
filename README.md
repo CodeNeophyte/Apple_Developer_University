@@ -37,6 +37,7 @@ Throughout these books and resources you whould learn the following things:
 #### Networking and JSON
 * Network requests: http://matteomanferdini.com/network-requests-rest-apis-ios-swift/
 * Ultimate guide to JSON: http://benscheirman.com/2017/06/ultimate-guide-to-json-parsing-with-swift-4/
+* Networking and Persistance: https://medium.com/@sdrzn/networking-and-persistence-with-json-in-swift-4-c400ecab402d
 
 ### Intermediate
 TODO: - Add intermediate resource and topics. (i.e. Individual Frameworks inside iOS, external frameworks, Cocopods, Cartage, Git, Databases)
