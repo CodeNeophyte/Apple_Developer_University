@@ -34,6 +34,8 @@ Throughout these books and resources you whould learn the following things:
 * Xcode - 
 * General Computer Science Topics - Procedural Programming (Step by Step, line by line programming); Basics of Object Oriented Programming (Encapsulation, Composition, Inheritance, Polymorhphism), Delegation, Abstraction; Algorhythm, Data Types
 
+* What every Junior Developer should know: http://blog.teamtreehouse.com/every-junior-ios-developer-needs-know
+
 #### Networking and JSON
 * Network requests: http://matteomanferdini.com/network-requests-rest-apis-ios-swift/
 * Ultimate guide to JSON: http://benscheirman.com/2017/06/ultimate-guide-to-json-parsing-with-swift-4/
